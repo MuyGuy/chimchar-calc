@@ -1,0 +1,23 @@
+:::tracker{species=Chimchar baseStats="[[44, 58, 44, 58, 44, 61], [64, 78, 52, 78, 52, 81], [76, 104, 71, 104, 71, 108]]"}
+6:
+   7 -> 0, 0, 0, 1, 0, 0 # Piplup (1 SPATK) 
+   8 -> 0, 0, 0, 1, 0, 1 # Starly (1 SPD)  
+   9 -> 1, 0, 0, 1, 1, 1 # Bidoof (1 HP), Burmy (1 SPDEF)
+  10 -> 1, 1, 0, 1, 1, 1 # Shinx (1 ATK) 
+  11 -> 1, 1, 0, 2, 1, 2 # Starly (1 SPD), Piplup (1 SPATK)
+  12 -> 2, 1, 0, 4, 1, 3 # Bidoof (1 HP), Starly (1 SPD), Budew (1 SPATK), Abra (1 SPATK)
+  13 -> 2, 2, 0, 4, 1, 4 # Starly (1 SPD), Shinx (1 ATK) 
+  14 -> 2, 3, 1, 4, 1, 4 # Geodude (1 DEF), Machop (1 ATK)
+  15 -> 2, 3, 3, 4, 1, 4 # Geodude (1 DEF), Onix (1 DEF) 
+  16 -> 2, 4, 5, 4, 1, 4 # Geodude (1 DEF), Onix (1 DEF), Cranidos (1 ATK)  
+  17 -> 2, 4, 5, 4, 1, 7 # Glameow (1 SPD), Stunky (1 SPD), Stunky (1 SPD)  	
+  18 -> 2, 4, 5, 4, 1, 10 # Zubat (1 SPD), Zubat (1 SPD), Glameow (1 SPD) 
+  19 -> 2, 4, 5, 4, 1, 13 # Zubat (1 SPD), Purugly (2 SPD)
+  20 -> 2, 4, 5, 6, 1, 13 # Roselia (2 SPATK)
+  21 -> 3, 4, 7, 9, 1, 14 # Pachirisu (1 SPD), Wurmple (1 HP), Silcoon (2 DEF), Beautifly (3 SPATK)
+  22 -> 4, 6, 7, 11, 4, 14 # Abra (1 SPATK), Abra (1 SPATK), Wurmple (1 HP), Cascoon (2 DEF), Dustox (3 SPDEF)
+  23 -> 4, 6, 7, 14, 4, 14 # Cherubi (1 SPATK), Roselia (2 SPATK), 
+  24 -> 4, 6, 7, 19, 4, 14 # Budew (1 SPATK), Budew (1 SPATK), Budew (1 SPATK), Roselia (2 SPATK)
+  25 -> 4, 7, 7, 24, 4, 14 # Turtwig (1 ATK), Cherrim (2 SPATK), Roserade (3 SPATK)
+:::
+
